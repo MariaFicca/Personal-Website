@@ -1,0 +1,76 @@
+* {
+        margin: 0;
+        padding: 0;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+
+}
+
+p:hover{
+	color: maroon;
+	text-shadow: white;
+}
+
+.container {
+        width: 9450px;
+        margin: 0 auto;
+}
+
+body{
+	background-color: gray;
+	
+}
+#top{
+	background-color: black;
+}
+
+h1{
+	color: white;
+	font-family Tahoma Geneva sans-serif;
+	font-size: 450%;
+	background-color: black;
+	margin: 0 auto;
+	padding: 3% 0 3% 20%;
+	text-shadow: 5px 5px 5px red;
+}
+
+h1:hover{
+	color: maroon;
+}
+
+h2:hover{
+	color: black;
+}
+
+.Bella{
+	float:right;
+}
+
+button{
+	background-color: #7FFF01;
+	color: red;
+	font-size: 125%;
+	margin-left: 12%;
+	margin-right: 10%;
+	padding: .5% .5% .5% .5%;
+}
+	
+
+
+h2{
+	color: maroon;
+	padding: 2%;
+	font-size: 200%;
+	margin-left: 25%;
+	text-shadow: 3px 3px 3px #C0C0C0;
+	
+}
+
+p{
+	color: white;
+	font-size: 135%;
+	margin: 0 auto;
+	padding: 3% 5% 3% 3%;
+	text-shadow: 2px 2px 2px black;
+	
+}
